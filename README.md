@@ -1,4 +1,4 @@
-# pilgrimofdelhi
+
 
 ![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-light-mode-only)
