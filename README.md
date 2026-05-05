@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png">
+  <img src="https://raw.githubusercontent.com/pilgrimofdelhi/pilgrimofdelhi/main/live_to_trade_trade_to_live.png" />
 </p>
 
 ![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
