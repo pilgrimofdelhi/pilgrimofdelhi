@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" />
+</p>
 
 ![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-light-mode-only)
