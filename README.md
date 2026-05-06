@@ -3,6 +3,13 @@
 </p>
 <h1 align="center">Trading × Fintech × Product-Led Growth</h1>
 
+![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
 ## About Me
 
 I work at the intersection of **trading, fintech, and product-led growth** — helping complex financial products earn **trust, adoption, and long-term relevance**.
@@ -56,12 +63,3 @@ Working across **brand + product marketing in fintech**, helping teams turn comp
 Sustainable growth in trading-tech isn’t built on hype.
 
 It’s built on: **Clarity, credibility, and respect for the user.**
-
----
-
-![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/pilgrimofdelhi/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
